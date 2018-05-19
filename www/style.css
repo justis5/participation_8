@@ -1,0 +1,25 @@
+#first-header {
+  font-family: "Helvetica";
+  color: rebeccapurple;
+  background-color: rgba(255, 255, 128, .5);
+}
+
+.second-header {
+  font-family: "Helvetica";
+  background-color: rgba(255, 255, 128, .5);
+}
+
+.caption {
+  font-family: cursive;
+  text-align: center;
+}
+
+.top {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
